@@ -1,8 +1,3 @@
-Here is the complete, master README.md text for his entire GitHub portfolio repository. It cleanly synthesizes his advanced AI work, his relational database design, his web development, and his high-performance C++ systems programming.
-
-
-markdown
-
 # AI, Software Engineering & Multi-Disciplinary Developer Portfolio
 
 Welcome to my software engineering portfolio. This repository showcases a comprehensive, structured breakdown of my technical capabilities spanning Artificial Intelligence (AI), core software architecture, relational database systems, and front-end web engineering.
